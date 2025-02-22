@@ -1,0 +1,66 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KFC Menu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>KFC Menu</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#chicken">Chicken</a></li>
+            <li><a href="#meals">Meals</a></li>
+            <li><a href="#sides">Sides</a></li>
+            <li><a href="#desserts">Desserts</a></li>
+            <li><a href="#drinks">Drinks</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="chicken">
+            <h2>Chicken</h2>
+            <ul>
+                <li>Original Recipe Chicken</li>
+                <li>Extra Crispy Tenders</li>
+                <li>Kentucky Grilled Chicken</li>
+            </ul>
+        </section>
+        <section id="meals">
+            <h2>Meals</h2>
+            <ul>
+                <li>2 Piece Chicken Meal</li>
+                <li>3 Piece Chicken Meal</li>
+                <li>Chicken Sandwich Meal</li>
+            </ul>
+        </section>
+        <section id="sides">
+            <h2>Sides</h2>
+            <ul>
+                <li>Mashed Potatoes</li>
+                <li>Coleslaw</li>
+                <li>Baked Beans</li>
+            </ul>
+        </section>
+        <section id="desserts">
+            <h2>Desserts</h2>
+            <ul>
+                <li>Chocolate Chip Cake</li>
+                <li>Apple Pie</li>
+            </ul>
+        </section>
+        <section id="drinks">
+            <h2>Drinks</h2>
+            <ul>
+                <li>Soft Drinks</li>
+                <li>Iced Tea</li>
+                <li>Lemonade</li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
